@@ -107,3 +107,12 @@ Example 1:
 
 Input: nums = [1,1,1,2,2,3], k = 2
 Output: [1,2]
+
+>Leetcode Question : 703. Kth Largest Element in a Stream
+
+Design a class to find the kth largest element in a stream. Note that it is the kth largest element in the sorted order, not the kth distinct element.
+
+Implement KthLargest class:
+
+KthLargest(int k, int[] nums) Initializes the object with the integer k and the stream of integers nums.
+int add(int val) Appends the integer val to the stream and returns the element representing the kth largest element in the stream.
