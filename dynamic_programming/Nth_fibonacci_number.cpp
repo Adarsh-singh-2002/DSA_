@@ -16,11 +16,7 @@ class Solution {
             prev2 = prev1;
             prev1 = curi;
             
-        }
-        
-        
-        return curi;
-
-        
+        }        
+        return curi;        
     }
 };
