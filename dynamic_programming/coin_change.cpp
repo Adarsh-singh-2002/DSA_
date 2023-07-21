@@ -1,4 +1,8 @@
-long long int count(int coins[], int N, int sum) {
+class solution
+{
+    public:
+
+    long long int count(int coins[], int N, int sum) {
 
         // code here.
         vector<vector<long long>> dp(N,vector<long long>(sum+1,0));
@@ -20,3 +24,4 @@ long long int count(int coins[], int N, int sum) {
         
         return dp[N-1][sum];
     }
+};
