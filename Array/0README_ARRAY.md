@@ -45,3 +45,16 @@ Arr[] = {2, 4, 8, 10, 12, 14}
 Output: 6
 Explanation: Actual AP should be 
 2, 4, 6, 8, 10, 12, 14.
+
+>Cyclically rotate an array by one
+
+Join the most popular course on DSA. Master Skills & Become Employable by enrolling today! 
+Given an array, rotate the array by one position in clock-wise direction.
+ 
+Example 1:
+
+Input:
+N = 5
+A[] = {1, 2, 3, 4, 5}
+Output:
+5 1 2 3 4
