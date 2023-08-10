@@ -29,3 +29,19 @@ B[] = {2,4,5,0,1}
 Output: 1
 Explanation: Both the array can be 
 rearranged to {0,1,2,4,5}
+
+>Missing element of AP
+
+Join the most popular course on DSA. Master Skills & Become Employable by enrolling today! 
+Find the missing element from an ordered array arr[], consisting of N elements representing an Arithmetic Progression(AP).
+
+Note: There always exists an element which upon inserting into sequence forms Arithmetic progression. Boundary elements (first and last elements) are not missing.
+
+Example 1:
+
+Input:
+N = 6
+Arr[] = {2, 4, 8, 10, 12, 14}
+Output: 6
+Explanation: Actual AP should be 
+2, 4, 6, 8, 10, 12, 14.
