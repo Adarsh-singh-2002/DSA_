@@ -29,3 +29,9 @@ NOTE:
 Each dish is supposed to be eaten by only one person. Sharing is not allowed.
 Each friend can take any dish an unlimited number of times.
 There always exists a dish with a filling capacity of 1 so that a solution always exists.
+
+>Matrix Chain Multiplication
+
+Given a sequence of matrices, find the most efficient way to multiply these matrices together. The efficient way is the one that involves the least number of multiplications.
+
+The dimensions of the matrices are given in an array arr[] of size N (such that N = number of matrices + 1) where the ith matrix has the dimensions (arr[i-1] x arr[i]).
