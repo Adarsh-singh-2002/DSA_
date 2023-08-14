@@ -35,3 +35,14 @@ There always exists a dish with a filling capacity of 1 so that a solution alway
 Given a sequence of matrices, find the most efficient way to multiply these matrices together. The efficient way is the one that involves the least number of multiplications.
 
 The dimensions of the matrices are given in an array arr[] of size N (such that N = number of matrices + 1) where the ith matrix has the dimensions (arr[i-1] x arr[i]).
+
+>Nth catalan number
+
+Given a number N. The task is to find the Nth catalan number.
+The first few Catalan numbers for N = 0, 1, 2, 3, … are 1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, …
+
+Catalan Number for N is equal to the number of expressions containing N pairs of paranthesis that are correct matched, i.e., for each of the N '(' there exist N ')' on there right and vice versa.
+
+Since answer can be huge return answer modulo 1e9+7.
+
+Note: Positions start from 0 as shown above.
