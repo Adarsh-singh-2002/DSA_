@@ -54,3 +54,7 @@ Given an array Arr[] of N integers. Find the contiguous sub-array(containing at 
 >Longest Common Subsequence
 
 Given two strings, find the length of longest subsequence present in both of them. Both the strings are in uppercase latin alphabets.
+
+>Longest Increasing Subsequence
+
+Given an array of integers, find the length of the longest (strictly) increasing subsequence from the given array.
