@@ -46,3 +46,7 @@ Catalan Number for N is equal to the number of expressions containing N pairs of
 Since answer can be huge return answer modulo 1e9+7.
 
 Note: Positions start from 0 as shown above.
+
+>Kadane's Algorithm
+
+Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
