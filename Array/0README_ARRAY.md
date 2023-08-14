@@ -58,3 +58,9 @@ N = 5
 A[] = {1, 2, 3, 4, 5}
 Output:
 5 1 2 3 4
+
+>Find minimum and maximum element in an array
+
+Given an array A of size N of integers. Your task is to find the minimum and maximum elements in the array.
+
+ 
