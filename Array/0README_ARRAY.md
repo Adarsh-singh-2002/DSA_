@@ -94,3 +94,8 @@ N = 8
 arr[] = {1, -1, 3, 2, -7, -5, 11, 6 }
 Output : 
 1  3  2  11  6  -1  -7  -5
+
+>Missing number
+
+Vaibhav likes to play with numbers and he has N numbers. One day he was placing the numbers on the playing board just to count that how many numbers he has. He was placing the numbers in increasing order i.e. from 1 to N. But when he was putting the numbers back into his bag, some numbers fell down onto the floor. He picked up all the numbers but one number, he couldn't find. Now he has to go somewhere urgently, so he asks you to find the missing number.
+NOTE: Don't use Sorting
