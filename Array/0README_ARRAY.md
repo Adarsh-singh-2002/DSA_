@@ -1,3 +1,4 @@
+<h1 style="color:red">Array</h1>
 >Search an Element in an array
 
 Join the most popular course on DSA. Master Skills & Become Employable by enrolling today! 
