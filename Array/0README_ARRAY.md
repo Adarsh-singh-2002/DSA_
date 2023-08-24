@@ -99,3 +99,24 @@ Output :
 
 Vaibhav likes to play with numbers and he has N numbers. One day he was placing the numbers on the playing board just to count that how many numbers he has. He was placing the numbers in increasing order i.e. from 1 to N. But when he was putting the numbers back into his bag, some numbers fell down onto the floor. He picked up all the numbers but one number, he couldn't find. Now he has to go somewhere urgently, so he asks you to find the missing number.
 NOTE: Don't use Sorting
+
+>Find the fine
+
+Given an array of penalties fine[], an array of car numbers car[], and also the date. The task is to find the total fine which will be collected on the given date. Fine is collected from odd-numbered cars on even dates and vice versa.
+
+Example 1:
+
+Input:
+N = 4, date = 12
+car[] = {2375, 7682, 2325, 2352}
+fine[] = {250, 500, 350, 200}
+Output:
+600
+Explantion:
+The date is 12 (even), so we collect the
+fine from odd numbered cars. The odd
+numbered cars and the fines associated
+with them are as follows:
+2375 -> 250
+2325 -> 350
+The sum of the fines is 250+350 = 600
