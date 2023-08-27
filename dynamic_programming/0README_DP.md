@@ -108,3 +108,17 @@ We are able to use character 'x'
 (at index 2 in str) in both subsequences
 as it appears on index 1 in subsequence A 
 and index 0 in subsequence B.
+
+>Longest Palindromic Subsequence
+
+Given a String, find the longest palindromic subsequence.
+
+NOTE: Subsequence of a given sequence is a sequence that can be derived from the given sequence by deleting some or no elements without changing the order of the remaining elements
+
+Example 1:
+
+Input:
+S = "bbabcbcab"
+Output: 7
+Explanation: Subsequence "babcbab" is the
+longest subsequence which is also a palindrome.
