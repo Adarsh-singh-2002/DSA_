@@ -137,3 +137,12 @@ on its right is 17. For 17 it's 5.
 For 4 it's 5. For 3 it's 5. For 5 it's 2. 
 For 2 it's -1(no element to its right). 
 So the answer is 17 5 5 5 2 -1
+
+>Remove duplicate elements from sorted Array
+
+Given a sorted array A[] of size N, delete all the duplicated elements from A[]. Modify the array such that if there are X distinct elements in it then the first X positions of the array should be filled with them in increasing order and return the number of distinct elements in the array.
+
+Note:
+1. Don't use set or HashMap to solve the problem.
+2. You must return the number of distinct elements(X) in the array, the driver code will print all the elements of the modified array from index 0 to X-1 as output of your code.
+
