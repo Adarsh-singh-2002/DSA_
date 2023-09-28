@@ -153,3 +153,18 @@ Given an unsorted array A of size N that contains only positive integers, find a
 In case of multiple subarrays, return the subarray indexes which come first on moving from left to right.
 
 Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.
+
+>ort an array of 0s, 1s and 2s
+
+Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.
+
+Example 1:
+
+Input: 
+N = 5
+arr[]= {0 2 1 2 0}
+Output:
+0 0 1 2 2
+Explanation:
+0s 1s and 2s are segregated 
+into ascending order.
