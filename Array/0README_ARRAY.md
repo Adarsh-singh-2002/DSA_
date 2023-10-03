@@ -203,3 +203,15 @@ It is the peak element as it is
 greater than its neighbour 2.
 If 2 is returned then the generated output will be 1 else 0.
 
+>Find Transition Point
+
+Given a sorted array containing only 0s and 1s, find the transition point. 
+
+Example 1:
+
+Input:
+N = 5
+arr[] = {0,0,0,1,1}
+Output: 3
+Explanation: index 3 is the transition 
+point where 1 begins.
