@@ -215,3 +215,5 @@ arr[] = {0,0,0,1,1}
 Output: 3
 Explanation: index 3 is the transition 
 point where 1 begins.
+
+>
